@@ -149,20 +149,6 @@ def main_apv():
         print(logo)
 
 	
-	
-        print ("☆Mr☆•─────────────────•✯ᗰ-ᑌᒪᒪᗩᕼ✯")
-
-        print ("  Your Token Is Not Approved Already")
-
-	
-	
-        print ("☆Mr☆•─────────────────•✯ᗰ-ᑌᒪᒪᗩᕼ✯")
-
-        print ("           THIS IS YOUR KEY")
-
-        print ("☆Mr☆•─────────────────•✯ᗰ-ᑌᒪᒪᗩᕼ✯")
-
-        print ("")
 
         myid=uuid.uuid4().hex[:10].upper()
 
@@ -205,15 +191,8 @@ def main_apv():
 
         print(logo)
 
-        print ("☆Mr☆•─────────────────•✯ᗰ-ᑌᒪᒪᗩᕼ✯")
-
-        print ("  Your Token Is Not Approved Already")
-
-        print ("☆Mr☆•─────────────────•✯ᗰ-ᑌᒪᒪᗩᕼ✯")
-
-	
-	
-        print ("          THIS IS YOUR KEY BRO")
+  
+     print ("          THIS IS YOUR KEY BRO")
 	
 	
 
@@ -233,7 +212,7 @@ def main_apv():
 
         os.system('am start https://wa.me/+923435573976?text=' + tks)
 
-logo="""\033[1;98m
+logo="""\033[1;87m
 
  _            _     _     _     ____  _    
 
